@@ -42,21 +42,21 @@ python todo.py help
 
 Here's an example on how to use TaskMaster-X:
 ```
-$ python todo_list.py add "Buy groceries"
+$ python todo.py add "Buy groceries"
 Task added: Buy groceries
 
 $ python todo_list.py add "Finish homework"
 Task added: Finish homework
 
-$ python todo_list.py view
+$ python todo.py view
 To-Do List:
 1. Buy groceries
 2. Finish homework
 
-$ python todo_list.py remove 1
+$ python todo.py remove 1
 Task removed: Buy groceries
 
-$ python todo_list.py view
+$ python todo.py view
 To-Do List:
 1. Finish homework
 ```
