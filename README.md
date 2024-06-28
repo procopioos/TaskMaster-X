@@ -1,5 +1,5 @@
 # TaskMaster-X
-TaskMaster CLI is a simple command-line to-do list application that allows you to manage your tasks easily. You can add, view, and remove tasks, with all tasks being saved to a file for persistence.
+TaskMaster-X is a simple command-line to-do list application that allows you to manage your tasks easily. You can add, view, and remove tasks, with all tasks being saved to a file for persistence.
 
 ## Features
 
