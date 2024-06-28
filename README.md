@@ -61,7 +61,7 @@ To-Do List:
 1. Finish homework
 ```
 
-## GUI
+## GUI reqs
 Alright you "non CLI-obsessed" people, GUI is pretty straight forward, however, you'll need to install a requirement: PyQt5. Installing that is as simple as executing this command:
 ```sh
 pip install pyqt5
