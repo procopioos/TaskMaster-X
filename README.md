@@ -1,5 +1,5 @@
 # TaskMaster-X
-TaskMaster-X is a simple command-line to-do list application that allows you to manage your tasks easily. You can add, view, and remove tasks, with all tasks being saved to a file for persistence.
+TaskMaster-X is a simple command-line / GUI to-do list application that allows you to manage your tasks easily. You can add, view, and remove tasks, with all tasks being saved to a file for persistence.
 
 ## Features
 
@@ -8,8 +8,8 @@ TaskMaster-X is a simple command-line to-do list application that allows you to 
 - Remove tasks from your to-do list.
 - Tasks are saved to a file for persistence.
 
-## Usage
-
+## Usage (CLI)
+Scroll down for GUI.
 ### Add a Task
 
 To add a task to your to-do list, use the `add` command followed by the task description.
@@ -60,3 +60,21 @@ $ python todo.py view
 To-Do List:
 1. Finish homework
 ```
+
+## GUI
+Alright you "non CLI-obsessed" people, GUI is pretty straight forward, however, you'll need to install a requirement: PyQt5. Installing that is as simple as executing this command:
+```sh
+pip install pyqt5
+```
+After it's done installing, just execute the todogui.py file and you'll be ready to manage your tasks like a pro!
+
+## Usage (GUI)
+### Add a Task
+You just press the "Add Task" button, type the name of the task and confirm!
+
+### Remove a Task
+Select the task you want to remove, and press "Remove task".
+
+
+
+
